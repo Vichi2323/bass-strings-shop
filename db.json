@@ -1,0 +1,80 @@
+{
+    "bassStrings": [
+        {
+            "id": 1,
+            "category": "strings",
+            "image": "strings1.jpg",
+            "name": "Roto Sound",
+            "price": 20.95,
+            "skus": [
+              {
+                "sku": "17",
+                "gauge": 105
+              },
+              {
+                "sku": "18",
+                "gauge": 95
+              }
+            ],
+            "description": "This are Rotosounds"
+          },
+          {
+            "id": 2,
+            "category": "strings",
+            "image": "strings2.jpg",
+            "name": "Ernie Ball",
+            "price": 22.95,
+            "skus": [
+              {
+                "sku": "17",
+                "gauge": 95
+              },
+              {
+                "sku": "18",
+                "gauge": 95
+              }
+            ],
+            "description": "This are Ernieballs"
+          },
+          {
+            "id": 3,
+            "category": "strings",
+            "image": "strings3.jpg",
+            "name": "Elixir",
+            "price": 45.95,
+            "skus": [
+              {
+                "sku": "17",
+                "gauge": 100
+              },
+              {
+                "sku": "18",
+                "gauge": 95
+              }
+            ],
+            "description": "This are Elixirs"
+          }
+    ],
+    "shippingAddress": [
+        {
+          "id": 1,
+          "city": "",
+          "country": ""
+        },
+        {
+          "city": "",
+          "country": "",
+          "id": 2
+        },
+        {
+          "city": "",
+          "country": "",
+          "id": 3
+        },
+        {
+          "city": "",
+          "country": "China",
+          "id": 4
+        }
+      ]
+  }
